@@ -1,2 +1,2 @@
 # vctsInOVCA
-Virtual clinical trials simulations in ovarian cancer
+Virtual clinical trials simulations in high grade serous ovarian cancer
